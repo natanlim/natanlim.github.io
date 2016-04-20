@@ -333,14 +333,14 @@ h4 a, h5 a, h6 a {
 */
 body {
   display: block;
-  background-color: #404040;
+  background-color: #4a4a4a;
   overflow-x: hidden;
   overflow-y: auto;
-  color: #303030;
+  color: #a7a7a7;
   font: 13px/1.7 "Raleway", sans-serif;
   font-weight: 400;
   letter-spacing: 1px;
-  background-image: url("../images/backgrounds/grey_wash_wall.png");
+  background-image: url("../images/backgroundbody3.png");
   -webkit-font-smoothing: antialiased;
   -webkit-backface-visibility: hidden;
   -moz-backface-visibility: hidden;
