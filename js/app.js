@@ -1,1 +1,0 @@
-function call_modal(o){$("#modalInclude").load("Includes/"+o+".html")}
