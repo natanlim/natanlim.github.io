@@ -2255,6 +2255,15 @@ pre code {
   .col-lg-offset-0 {
     margin-left: 0;
   }
+
+  .col-center-block {
+    
+    float: left;
+    margin-left: auto;
+    margin-right: auto;
+    
+    /* margin-left: auto; margin-right: auto; */
+}}
 }
 table {
   background-color: transparent;
